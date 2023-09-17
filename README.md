@@ -15,14 +15,13 @@
     </a>
   </div>
 </div> 
-I am Son Long Vo 🇻🇳 🥇
+I am Son Long Vo🥇🔥🦾
 
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
 - 🌱 I’m 20 years old.
-- 🤔 I’m interested in Web Development, Software Engineering.
-- 💬 contact me whenever u want
-- 📫 How to reach me: facebook, linkedin or gmail ⬆️⬆️⬆️
-- ⚡ I like coding whenever i have free time.
+- 🤔 I’m interested in Web development and software engineering.
+- 📫 contact me whenever u want⬆️⬆️⬆️.
+- ⚡ I like coding whenever I have free time.
 ---
 ### Languages:
 <div>
@@ -34,3 +33,7 @@ I am Son Long Vo 🇻🇳 🥇
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
+### About my Stats:
+![](https://github-readme-stats.vercel.app/api?username=Longbuonlam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Longbuonlam&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Longbuonlam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
