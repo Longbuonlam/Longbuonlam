@@ -18,7 +18,7 @@
 I am Son Long Vo🥇🔥🦾
 
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
-- 🌱 I’m 20 years old.
+- 🌱 I’m 21 years old.
 - 🤔 I’m interested in Web development and software engineering.
 - 📫 contact me whenever u want⬆️⬆️⬆️.
 - ⚡ I like coding whenever I have free time.
@@ -31,6 +31,7 @@ I am Son Long Vo🥇🔥🦾
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 
 ### About my Stats:
