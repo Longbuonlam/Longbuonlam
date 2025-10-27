@@ -1,64 +1,55 @@
-<div id="header">
-  <h1>
-    Hi there :>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/contact-sonlong/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-     <a href="https://www.facebook.com/sonlong2302/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="mailto:sonlong2302@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=ロンのGitHub&textBg=false&reversal=false&fontColor=black" />
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<!-- Experience -->
+<div style="flex: 1; min-width: 300px; text-align: left;">
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Experience</h2>
+    <ul style="list-style: none; padding: 0; margin: 10px 0; line-height: 1.6;">
+        <li><strong>Hanoi University of Science and Technology</strong> - Computer Science (2021.07 ~ 2025.07)</li>
+        <li><strong>NTQ Solution</strong> - Software Engineer (2025.08 ~)</li>
+    </ul>
+</div>
+  <!-- Tech Stacks -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <img src="https://img.shields.io/badge/java%2017-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Java%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/Typescript-0769AD?style=for-the-badge&logo=Typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon%20EC2-663399?style=for-the-badge&logo=amazons3&logoColor=white">
+    </div>
   </div>
-</div> 
-I am Son Long Vo🥇🔥🦾
 
-- 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology
-- 🔭 I'm also a Java Backend Developer at NTQ Solution.
-- 🌱 I’m 21 years old.
-- 🤔 I’m interested in Web development and software engineering.
-- 📫 contact me whenever u want⬆️⬆️⬆️.
-- ⚡ I like coding whenever I have free time.
----
-### Languages:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <!-- Contact Me -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
+    <div style="display: flex; gap: 10px;"
+      <a href="mailto:sonlong2302@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+      </a>
+    </div>
+  </div>
 </div>
 
-### Framework:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-</div>
-
-### Database:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-</div>
-
-### Others:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
-### About my Stats:
-![](https://github-readme-stats.vercel.app/api?username=Longbuonlam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Longbuonlam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Longbuonlam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Stats -->
+<div style="text-align: center; margin-top: 20px;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longbuonlam&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" alt="Top Langs" />
+</div
