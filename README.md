@@ -9,7 +9,8 @@
     <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Experience</h2>
     <ul style="list-style: none; padding: 0; margin: 10px 0; line-height: 1.6;">
         <li><strong>Hanoi University of Science and Technology</strong> - Computer Science (2021.07 ~ 2025.07)</li>
-        <li><strong>NTQ Solution</strong> - Software Engineer (2025.08 ~)</li>
+        <li><strong>NTQ Solution</strong> - Software Engineer (2024.03 ~ 2026.03)</li>
+        <li><strong>NJP</strong> - Data Engineer (2026.04 ~)</li>
     </ul>
 </div>
   <!-- Tech Stacks -->
